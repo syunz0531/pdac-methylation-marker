@@ -1,0 +1,5 @@
+search_date: 2026-11-06 01:05 대한민국 표준시
+database: PubMed (NCBI E-utilities)
+query: ("pancreatic cancer"[tiab] OR "pancreatic cancers"[tiab] OR "pancreatic adenocarcinoma"[tiab] OR "pancreatic ductal adenocarcinoma"[tiab] OR PDAC[tiab]) AND (cfDNA[tiab] OR "cell-free DNA"[tiab] OR "cell free DNA"[tiab] OR "circulating tumor DNA"[tiab] OR ctDNA[tiab] OR plasma[tiab] OR serum[tiab] OR "liquid biopsy"[tiab] OR blood[tiab]) AND (methylation[tiab] OR methylated[tiab] OR hypermethylation[tiab] OR methylome[tiab]) AND (diagnos*[tiab] OR detection[tiab] OR biomarker*[tiab] OR marker*[tiab] OR screening[tiab]) AND english[la]
+count: 135
+retrieved: 135

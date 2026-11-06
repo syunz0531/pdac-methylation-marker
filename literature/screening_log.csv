@@ -1,0 +1,41 @@
+pmid,first_author,year,decision,reason
+31590960,Zhou H,2019,included,blood methylation of named gene (MUC2)
+33440396,Fujimoto Y,2021,included,serum cfDNA RUNX3
+36244341,Suehiro Y,2022,included,serum cfDNA HOXA1 and SST
+34830873,Stubbe BE,2021,included,plasma cfDNA SFRP1 (prognostic)
+37333823,Stubbe BE,2023,included,plasma cfDNA SFRP1 (prognostic)
+37230892,Stubbe BE,2023,included,plasma cfDNA SFRP1 (prognostic)
+40492125,Stubbe B,2025,included,plasma cfDNA SFRP1 (prognostic)
+38097094,Xin W,2024,included,plasma ctDNA 5 named genes
+38577595,Koukaki T,2024,included,plasma cfDNA BRCA1/BRCA2 (prognostic)
+39035743,Kim H,2024,included,plasma cfDNA 7 named genes
+41057423,Caliez O,2025,included,plasma ctDNA HOXD8/POU4F1 (monitoring)
+42630043,Tabara S,2026,included,serum methylated SST
+41930338,Cano-Ramirez P,2026,included,plasma cfDNA NR3C1/LAX1/RCAN3 (prognostic)
+40961228,Wang WQ,2026,included,plasma ctDNA MIR129-2
+36434648,Wu H,2022,pending full text,56-marker panel not named in abstract
+38561976,Zhao G,2024,pending full text,6 markers not named in abstract
+40129923,Hu W,2025,pending full text,120-CpG panel only partly named
+38123998,Ben-Ami R,2024,pending full text,9 pancreas-specific loci not named in abstract
+26646275,Mardin WA,2016,excluded,tissue specimens
+30178258,Liu B,2018,excluded,methods chapter
+40507783,Ito T,2025,excluded,genome-wide profile without named markers
+38644767,Laven-Law G,2024,excluded,TCGA tissue only
+22629410,Dauksa A,2012,excluded,whole blood (leukocyte) DNA
+28978057,Schott S,2017,excluded,peripheral blood cell DNA
+35360846,Jansen RJ,2022,excluded,blood lymphocyte DNA
+38853072,Li Y,2024,excluded,peripheral blood monocyte DNA
+36803844,Chhoda A,2023,excluded,IPMN risk stratification
+39477082,Engels MML,2025,excluded,pancreatic juice
+42226556,Mills K,2026,excluded,peritoneal lavage fluid
+34465601,Kandimalla R,2021,excluded,pan-GI genome-wide panel without gene-level markers
+34830765,Huang J,2021,excluded,genome-wide CpG island signature
+37787018,Bahado-Singh RO,2023,excluded,genome-wide AI model
+34516908,Siejka-Zielinska P,2021,excluded,whole-genome methylome
+40857204,Lapin M,2025,excluded,tumor-agnostic genome-wide panel
+26976580,Lehmann-Werman R,2016,excluded,tissue-of-origin method study
+36076083,Fedyuk V,2023,excluded,nucleosome histone profiling
+38326602,Draskovic T,2024,excluded,tissue data only
+35843766,Majumder S,2022,excluded,tissue only
+41226826,Al-Mashat H,2025,excluded,acute pancreatitis without PDAC
+39230538,Chowdhury S,2024,excluded,5-hydroxymethylcytosine not 5mC

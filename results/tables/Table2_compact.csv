@@ -1,0 +1,15 @@
+Gene,Grade,Studies reporting,AUC TCGA-PAAD,AUC GSE49149,Blood median beta,Sensitivity at 10% (99% spec),Other cancer types positive (of 14),Criteria not met
+HOXA1,A,3,0.906,0.876,0.05,53%,4,(none)
+CCND2,A,2,0.913,0.87,0.006,61%,4,(none)
+BNC1,B,9,0.91,0.893,0.081,20%,11,"dilution,specificity"
+SFRP1,B,9,0.946,0.922,0.05,4%,8,"dilution,specificity"
+NPTX2,B,6,0.949,0.973,0.052,1%,12,"dilution,specificity"
+TFPI2,B,5,0.897,0.918,0.022,55%,6,specificity
+BMP3,B,4,0.878,0.907,0.019,49%,7,"dilution,specificity"
+SST,B,4,0.891,0.852,0.292,4%,7,"blood,dilution,specificity"
+PENK,B,4,0.934,0.807,0.066,3%,13,"dilution,specificity"
+SFRP2,B,3,0.908,0.947,0.085,14%,10,"dilution,specificity"
+RASSF1,C,5,-,-,-,-,-,reproducibility
+CDKN2A,C,4,-,-,-,-,-,reproducibility
+ADAMTS1,C,3,-,-,-,-,-,reproducibility
+APC,C,3,-,-,-,-,-,reproducibility

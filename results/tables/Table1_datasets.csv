@@ -1,0 +1,19 @@
+Dataset,Source,Country,Role,Samples used
+TCGA-PAAD,UCSC Xena (TCGA),USA (multi-center),PDAC tissue,"153 tumors (ductal type), 10 normal"
+GSE49149,GEO,Australia,PDAC tissue,"167 tumors, 29 adjacent non-tumor"
+GSE74071,GEO,Taiwan,PDAC tissue,"12 tumors, 8 adjacent normal"
+GSE40279,GEO,USA,Healthy whole blood,656 adults
+TCGA-CHOL,UCSC Xena (TCGA),USA (multi-center),Other cancer tissue,36 tumors
+TCGA-LIHC,UCSC Xena (TCGA),USA (multi-center),Other cancer tissue,379 tumors
+TCGA-STAD,UCSC Xena (TCGA),USA (multi-center),Other cancer tissue,396 tumors
+TCGA-ESCA,UCSC Xena (TCGA),USA (multi-center),Other cancer tissue,186 tumors
+TCGA-COAD,UCSC Xena (TCGA),USA (multi-center),Other cancer tissue,299 tumors
+TCGA-READ,UCSC Xena (TCGA),USA (multi-center),Other cancer tissue,99 tumors
+TCGA-LUAD,UCSC Xena (TCGA),USA (multi-center),Other cancer tissue,460 tumors
+TCGA-LUSC,UCSC Xena (TCGA),USA (multi-center),Other cancer tissue,372 tumors
+TCGA-BRCA,UCSC Xena (TCGA),USA (multi-center),Other cancer tissue,790 tumors
+TCGA-PRAD,UCSC Xena (TCGA),USA (multi-center),Other cancer tissue,499 tumors
+TCGA-KIRC,UCSC Xena (TCGA),USA (multi-center),Other cancer tissue,320 tumors
+TCGA-BLCA,UCSC Xena (TCGA),USA (multi-center),Other cancer tissue,413 tumors
+TCGA-HNSC,UCSC Xena (TCGA),USA (multi-center),Other cancer tissue,530 tumors
+TCGA-UCEC,UCSC Xena (TCGA),USA (multi-center),Other cancer tissue,432 tumors
